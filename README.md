@@ -87,7 +87,7 @@ Abre el proyecto en Android Studio
 
 Conecta un dispositivo o inicia un AVD
 
-Compila y presiona Run ▶
+Compila y presiona Run 
 
 Pruebas de Sensores en el Emulador
 A. Probar Ubicación (GPS)
@@ -96,11 +96,17 @@ Ejecutar la app
 
 Abrir Extended Controls del emulador (tres puntos …)
 
+<img width="597" height="1277" alt="image" src="https://github.com/user-attachments/assets/9801c4b1-8459-406a-a267-060a7111ff64" />
+
+
 Ir a Location
 
 Insertar coordenadas y presionar SET LOCATION
 
 La ubicación se actualizará gracias a requestLocationUpdates().
+
+<img width="1255" height="975" alt="Captura de pantalla 2025-12-08 192505" src="https://github.com/user-attachments/assets/439d9472-58a4-4fe6-9442-f182ec4ca8e7" />
+
 
 B. Probar el Acelerómetro
 
@@ -111,6 +117,9 @@ Ir a Virtual Sensors
 En la sección Device Pose, mover el modelo 3D
 
 Los valores X, Y y Z cambiarán en tiempo real.
+
+<img width="1246" height="1015" alt="Captura de pantalla 2025-12-08 194022" src="https://github.com/user-attachments/assets/dec701c8-5af9-4a85-adf3-dcf09dba87d1" />
+
 
  C. Probar Wi-Fi
 
