@@ -3,23 +3,19 @@ Eva4iot: Aplicación de Monitoreo de Sensores y Ubicación (Android)
 Aplicación móvil desarrollada en Android Nativo (Kotlin) como prueba de concepto para Adquisición de Datos IoT desde un dispositivo móvil.
 Permite visualizar en tiempo real la información de sensores, módulos de conectividad y coordenadas, demostrando el uso correcto de permisos, servicios del sistema y Google Maps.
 
-Tabla de Contenidos
+Tabla de Contenidos:
 
-Descripción General
+*Descripción General
 
-Características Principales
+*Características Principales
 
-Tecnologías Utilizadas
+*Tecnologías Utilizadas
 
-Instalación y Ejecución
+*Instalación y Ejecución
 
-Pruebas de Sensores en el Emulador
+*Pruebas de Sensores en el Emulador
 
-Estructura del Proyecto
-
-Autor
-
-Descripción General
+*Estructura del Proyecto
 
 Eva4iot tiene como objetivo demostrar la implementación correcta de:
 
